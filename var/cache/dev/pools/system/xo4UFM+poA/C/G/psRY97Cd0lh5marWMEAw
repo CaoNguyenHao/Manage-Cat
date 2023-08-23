@@ -1,0 +1,3 @@
+<?php //App%255CController%255CDetailController
+
+return [PHP_INT_MAX, []];
